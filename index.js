@@ -1,5 +1,5 @@
 const hello = require('./hello');
 
-const name = "Evercode";
+const name = "Hello, Evercode!";
 const helloMessage = hello(name);
 console.log(helloMessage);
